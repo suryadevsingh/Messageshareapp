@@ -17,6 +17,6 @@
 
 ### Demo
  <p>
-     <img src="https://github.com/suryadevsingh/Messageshareapp/kotlin.gif?raw=true"/>
+     <img src="https://github.com/suryadevsingh/Messageshareapp/blob/master/kotlin.gif?raw=true"/>
  
  </p>
