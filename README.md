@@ -1,6 +1,11 @@
 # Messageshareapp
 ## #30DaysOfKotlin 
+# Demo
 
+ <p>
+     <img src="https://github.com/suryadevsingh/Messageshareapp/blob/master/kotlin.gif?raw=true"/>
+ 
+ </p>
 ## concepts in Kotlin implement in this project
 
 ### 1)Activity
@@ -12,11 +17,4 @@
 ### 7)Toast Message
 ### 8)Log Cat
 
-# Demo
 
-
-### Demo
- <p>
-     <img src="https://github.com/suryadevsingh/Messageshareapp/blob/master/kotlin.gif?raw=true"/>
- 
- </p>
