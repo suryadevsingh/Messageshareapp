@@ -11,3 +11,12 @@
 ### 6)share data to other apps (like whatsapp,gmail,facebook,etc..) (Implicit Intent)
 ### 7)Toast Message
 ### 8)Log Cat
+
+# Demo
+
+
+### Demo
+ <p>
+     <img src="https://github.com/suryadevsingh/Messageshareapp/kotlin.gif?raw=true"/>
+ 
+ </p>
